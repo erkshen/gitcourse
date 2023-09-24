@@ -1,2 +1,2 @@
 # gitcourse
-for git course purposes
+For following with the git tutorial
